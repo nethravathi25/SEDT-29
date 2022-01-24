@@ -11,6 +11,7 @@ public class DemoGit
 
 		System.out.println("user 1 update(2)");
 
+		System.out.println("hi this is user 2 in branch ");
 	}
 
 }
