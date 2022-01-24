@@ -1,0 +1,9 @@
+package GitHub;
+
+public class DemoGit
+{
+	public static void main(String[] args) {
+		System.out.println("github user 1 built");
+	}
+
+}
