@@ -1,8 +1,11 @@
 package GitHub;
 
+import org.testng.annotations.Test;
+
 public class DemoGit
 {
-	public static void main(String[] args) 
+	@Test
+	public void demogitTest()
 	{
 		System.out.println("github user 1 built");
 		System.out.println("user 2 update(2)");
@@ -15,6 +18,8 @@ public class DemoGit
 		System.out.println("nethra ");
 		System.out.println("hai");
 		System.out.println("hello");
+		
+		System.out.println("hahaha");
 	}
 
 }
