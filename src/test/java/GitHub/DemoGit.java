@@ -16,9 +16,9 @@ public class DemoGit
 
 		System.out.println("hi this is user 2 in branch ");
 		System.out.println("nethra ");
-		System.out.println("hai");
+		System.out.println("hi");
 		System.out.println("hello");
-		
+		System.out.println("new");
 		System.out.println("hahaha");
 	}
 
